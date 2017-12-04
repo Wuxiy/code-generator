@@ -17,7 +17,7 @@ import java.util.Map;
  * Created by wangh09 on 2017/7/5.
  */
 public class FilterBaseEngine implements Engine {
-    private static final String TEMPLATE_FILE_PATH = SystemParameters.CUR_PROJECT_PATH + "/src/test/resources/templates";
+    private static final String TEMPLATE_FILE_PATH = SystemParameters.CUR_PROJECT_PATH + "/src/main/resources/templates";
     private static freemarker.template.Configuration getConfiguration() throws IOException {
         freemarker.template.Configuration cfg = new freemarker.template.Configuration(freemarker.template.Configuration.VERSION_2_3_23);
         cfg.setDirectoryForTemplateLoading(new File(TEMPLATE_FILE_PATH));
