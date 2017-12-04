@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+    <social_question id="1" uid="1" title="柑橘树上为什么有斑纹呀？" content="[TEXT]如题" crop="1"
+                     location_str="中国四川省成都市青羊区东御街92号" location="2326067601" longitude="104.072543" latitude="30.662299"
+                     click="10" invited_expert_id="12" thumbnail="Ft8kEajrzNa30kYwMk71zZm-MfP3" score="0" state="1"/>
+    <social_question id="2" uid="2" title="柑橘黄" content="[TEXT]柑橘叶片黄化，问一下是缺什么元素吗？" crop="1"
+                     location_str="中国北京市海淀区S50(北五环路)" location="2322941203" longitude="116.352216" latitude="40.027134"
+                     click="0" invited_expert_id="2" thumbnail="Fu0s6ErRbZxiImDywSdZpVsKONi0" score="0" state="1"/>
+    <social_question id="3" uid="3" title="柑橘黄" content="[TEXT]柑橘叶片黄化，问一下是缺什么元素吗？" crop="1"
+                     location_str="中国北京市海淀区S50(北五环路)" location="2322941203" longitude="116.352216" latitude="40.027134"
+                     click="0" invited_expert_id="2" thumbnail="Fu0s6ErRbZxiImDywSdZpVsKONi0" score="0" state="-10"/>
+</dataset>
