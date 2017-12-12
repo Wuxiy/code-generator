@@ -9,11 +9,11 @@ public class UserParameters {
     //1: auto id 2: non-auto id 3: uuid
     //1) 表名 2) service 3) api路径 3) id策略
     public static String[][] tableNames = {
-            {"social_example",       "social",      "example",       "1"},
-            {"social_example_comment","social",      "example/comment",       "1"},
-            {"social_example_conversation","social",      "example/conversation",       "1"},
-            {"social_example_section","social",      "example/section",       "1"},
-            {"social_example_tag","social",      "example/tag",       "1"}
+//            {"social_example",       "social",      "example",       "1"},
+//            {"social_example_comment","social",      "example/comment",       "1"},
+//            {"social_example_conversation","social",      "example/conversation",       "1"},
+//            {"social_example_section","social",      "example/section",       "1"},
+//            {"social_example_tag","social",      "example/tag",       "1"}
             /*{"account_message",       "account",    "message",      "3"}
             //{"social_tag",       "social",      "tag",       "1"},
 
@@ -85,6 +85,7 @@ public class UserParameters {
 //            {"social_question_comment",       "social",   "question/comment",       "1"},
 //            {"social_question_conversation",       "social",  "question/conversation",        "1"},
 //            {"social_question_tag",       "social",     "question/tag",     "1"},
+            {"social_tag_correct",       "social",     "tag/correct",     "1"},
     };
 
 

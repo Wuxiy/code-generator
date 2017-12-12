@@ -5,7 +5,7 @@ package generator.parameter;
  */
 public class SystemParameters {
     //目标项目在硬盘上的基础路径,运行前请务必修改DEST_PROJECT_PATH为实际值
-    public static String DEST_PROJECT_PATH = "D:\\workspace\\zuannong\\social-service";
+    public static String DEST_PROJECT_PATH = "D:\\Projects\\nongtianquan\\zhuannong-backend\\social-service";
 
     //当前项目在硬盘上的基础路径，如果当前项目作为一个module被引入到其他项目时，请将该参数修改为实际值
     public static String CUR_PROJECT_PATH = System.getProperty("user.dir");
