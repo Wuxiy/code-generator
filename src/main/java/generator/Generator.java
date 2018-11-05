@@ -32,7 +32,7 @@ public class Generator {
     }
 
     public static void main(String[] args) throws Exception {
-        String author = "hexingfu";
+        String author = "wuxiy";
         String dbHost = "192.168.50.103";
         String dbPort = "3306";
         String dbUser = "rtdv";
